@@ -2,7 +2,7 @@
 <p align="center">
   <h1 height="200px" align="center">
  Hi there <img src="https://cdn.jsdelivr.net/gh/MaleWeb/picture/images/techblog/hi.gif" width="25">, I'm HongLiang </h1> 
-<div align="center">
+<div align="center" >
  <h3><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 👦 HongLiang Yao | 💻 Full Stack Developer | 🛸 China <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></h3>
 </div>
 
@@ -40,7 +40,18 @@
 - 👻 I love to share, and currently share technical articles at [juejin](https://juejin.cn/user/4459274891717223)
 - ⛺️ I have a private site: [kunlunxu](https://kunlunxu.cc), you're welcome to come! ~
 - 📨 My email address is `moyuanjun@kunlunxu.cc` Welcome to contact me 👏🏻 ~
-复制代码
+<!-- 贪吃蛇 - 图片有 actions/Generate Snake 定时生成 -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="./assets/github-snake.svg" />
+  <img width="100%" alt="github-snake" src="./assets/github-snake.svg" />
+</picture>
+<!-- 统计卡片, see: https://github.com/anuraghazra/github-readme-stats -->
+<table align="center">
+  <tr>
+ <td align="center"> <div><b><em><spam>Statistics</spam></em></b></div> <img align="left" src="./assets/metrics.plugin.isocalendar.svg" /> </td> <td align="left"> <img src="https://github-readme-stats.vercel.app/api?username=anuraghazra&hide_border=true&show_icons=true&theme=dark&bg_color=00000000"/> </td> </tr> </table> 
+
+
 
 
 
