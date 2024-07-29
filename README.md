@@ -34,7 +34,7 @@
 <h2 height="200px" align="center">🎉 About Me</h2>
 <br />
 
-- 🔭 I’m currently working on [DXY](https://dxy.com/)~
+- 🔭 I’m currently working on [ZHUANZHUAN]([https://dxy.com/](https://www.zhuanzhuan.com/))~
 - 🏋 I'm passionate about fitness, and it pays off ~
 - 👨‍💻 I'm passionate about coding and have been developing my skill ~
 - 👻 I love to share, and currently share technical articles at [juejin](https://juejin.cn/user/4459274891717223)
