@@ -37,8 +37,6 @@
 - 🔭 I’m currently working on [ZHUANZHUAN]([https://dxy.com/](https://www.zhuanzhuan.com/))~
 - 🏋 I'm passionate about fitness, and it pays off ~
 - 👨‍💻 I'm passionate about coding and have been developing my skill ~
-- 👻 I love to share, and currently share technical articles at [juejin](https://juejin.cn/user/4459274891717223)
-- ⛺️ I have a private site: [kunlunxu](https://kunlunxu.cc), you're welcome to come! ~
 - 📨 My email address is `liuyaokeji@gmail.com` Welcome to contact me 👏🏻 ~
 <!-- 贪吃蛇 - 图片有 actions/Generate Snake 定时生成 -->
 <picture>
